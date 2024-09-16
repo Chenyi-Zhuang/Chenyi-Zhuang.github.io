@@ -21,7 +21,7 @@ repository               : "Chenyi-Zhuang/Chenyi-Zhuang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/me.png"
+  avatar           : "me.png"
   name             : "Chenyi Zhuang"
   pronouns         : # example: "she/her"  
   bio              : "Master of Computer Science"
