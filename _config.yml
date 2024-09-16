@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Master of Computer Science"
   location         : "Nanjing"
-  employer         : "Nanjing University of Aeronautics and Astronautics"
+  employer         : ""
   uri              : # URL
   email            : "chenyi.zhuang@nuaa.edu.cn" 
 
@@ -75,10 +75,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  # books:
+  #   title: 'Books'
+  # manuscripts:
+  #   title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
 
