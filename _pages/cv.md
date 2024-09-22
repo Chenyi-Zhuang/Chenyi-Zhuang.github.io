@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Download <a href="{{ [post.paperurl](https://academicpages.github.io/files/CV.pdf) }}">CV</a></div>
+  <div class="wordwrap">Download <a href="{{ https://academicpages.github.io/files/CV.pdf }}">CV</a></div>
 {% endif %}
 
 {% include base_path %}
