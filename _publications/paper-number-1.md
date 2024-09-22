@@ -2,7 +2,7 @@
 title: "StylePrompter: All Styles Need Is Attention"
 collection: publications
 category: conferences
-permalink: /publication/1-2023-ACMMM-StylePrompter
+permalink: /publication/paper-number-1
 excerpt: 'This paper is about image inversion and editing on StyleGAN.'
 date: 2023-10
 venue: 'ACM International Conference on Multimedia'
