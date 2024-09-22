@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Chenyi Zhuang"
 description              : &description "personal description"
 url                      : https://chenyi-zhuang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "Chenyi-Zhuang/Chenyi-Zhuang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Master of Computer Science"
   location         : "Nanjing"
-  employer         : ""
+  employer         : 
   uri              : # URL
   email            : "chenyi.zhuang@nuaa.edu.cn" 
 
