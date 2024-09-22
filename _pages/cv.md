@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">Download <a href="{https://academicpages.github.io/files/CV.pdf}">my CV</a>.</div>
+{% endif %}
+
 {% include base_path %}
 
 Education
