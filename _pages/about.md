@@ -16,5 +16,5 @@ I am strongly interested in the potential of generative models for various appli
 I am also interested in learning more about how generative models work and why they present the behaviors we observe. In this case, I have also spent a lot of time studying vision-language models and large-language models.
 
 ### More About Me
-I have two principles in my life: "A heart of faith is magic" and "simple but effective". The first is my commitment to any prospective work, the second reflects my work style on productivity and creativity. \\
+I have two principles in my life: "A believing heart is magic" enables my commitment to any prospective work, and "simple but effective" reflects my work style on productivity and creativity. \\
 Beyond academic life, I love reading ranging from social science to liberal arts, fiction, and more. I also unwind by walking, meditating, and journaling. 
